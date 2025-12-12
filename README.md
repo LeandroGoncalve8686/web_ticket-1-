@@ -38,7 +38,7 @@ Sistema desenvolvido para gerenciar filas de atendimento com três tipos de senh
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/isabelaabraz-hub/web_ticket.git
+git clone https://github.com/LeandroGoncalve8686.git
 cd web_ticket
 ```
 
